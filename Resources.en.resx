@@ -237,4 +237,16 @@
   <data name="LanguageError" xml:space="preserve">
     <value>Error,you can't enter russian symbols</value>
   </data>
+  <data name="GameSavedDueToExit" xml:space="preserve">
+    <value>Game result saved due to unexpected exit.</value>
+  </data>
+  <data name="GameResumed" xml:space="preserve">
+    <value>Previous game loaded. Continuing...</value>
+  </data>
+  <data name="GameWasInterruptedResult" xml:space="preserve">
+    <value>Previous game was interrupted. Winner: Player {0}</value>
+  </data>
+  <data name="PlayerLostSimple" xml:space="preserve">
+    <value>Player {0} lost</value>
+  </data>
 </root>

@@ -237,4 +237,16 @@
   <data name="LanguageError" xml:space="preserve">
     <value>Ошибка, вводить можно только русские символы.</value>
   </data>
+  <data name="GameSavedDueToExit" xml:space="preserve">
+    <value>Результат игры сохранён из-за неожиданного закрытия.</value>
+  </data>
+  <data name="GameResumed" xml:space="preserve">
+    <value>Загружена предыдущая игра. Продолжаем...</value>
+  </data>
+  <data name="GameWasInterruptedResult" xml:space="preserve">
+    <value>Предыдущая игра была прервана. Победитель: Игрок {0}</value>
+  </data>
+  <data name="PlayerLostSimple" xml:space="preserve">
+    <value>Игрок {0} проиграл</value>
+  </data>
 </root>

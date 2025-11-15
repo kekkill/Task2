@@ -1,6 +1,3 @@
-using System;
-using System.Threading;
-
 public class GameTimer
 {
     private Timer _timer;
