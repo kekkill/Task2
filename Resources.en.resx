@@ -151,7 +151,7 @@
     <value>Enter start word: </value>
   </data>
   <data name="ErrorWordLength" xml:space="preserve">
-    <value>Error, word length must be from 8 to 33 characters: </value>
+    <value>Error, word length must be from 8 to 30 characters: </value>
   </data>
   <data name="StartWordSet" xml:space="preserve">
     <value>Start word set: '{0}'</value>
@@ -236,5 +236,56 @@
   </data>
   <data name="LanguageError" xml:space="preserve">
     <value>Error,you can't enter russian symbols</value>
+  </data>
+  <data name="GameSavedDueToExit" xml:space="preserve">
+    <value>Game result saved due to unexpected exit.</value>
+  </data>
+  <data name="GameResumed" xml:space="preserve">
+    <value>Previous game loaded. Continuing...</value>
+  </data>
+  <data name="GameWasInterruptedResult" xml:space="preserve">
+    <value>Previous game was interrupted. Winner: Player {0}</value>
+  </data>
+  <data name="PlayerLostSimple" xml:space="preserve">
+    <value>Player {0} lost</value>
+  </data>
+  <data name="LocalisationError1" xml:space="preserve">
+    <value>Ошибка, ввести можно только 1 или 2</value>
+  </data>
+  <data name="LocalisationError2" xml:space="preserve">
+    <value>Error,you can enter only 1 or 2</value>
+  </data>
+  <data name="EnterPlayerName" xml:space="preserve">
+    <value>Enter name for Player {0}:</value>
+  </data>
+  <data name="CurrentPlayers" xml:space="preserve">
+    <value>Current players: {0} vs {1}</value>
+  </data>
+  <data name="CommandShowWords" xml:space="preserve">
+    <value>All used words:</value>
+  </data>
+  <data name="CommandScore" xml:space="preserve">
+    <value>Current score - {0}: {1}, {2}: {3}</value>
+  </data>
+  <data name="CommandTotalScore" xml:space="preserve">
+    <value>Total wins - {0}: {1}, {2}: {3}</value>
+  </data>
+  <data name="UnknownCommand" xml:space="preserve">
+    <value>Unknown command</value>
+  </data>
+  <data name="PlayerWins" xml:space="preserve">
+    <value>Player wins: {0}</value>
+  </data>
+  <data name="AvailableCommands" xml:space="preserve">
+    <value>Available commands: /show-words, /score, /total-score</value>
+  </data>
+  <data name="UseSavedPlayers" xml:space="preserve">
+    <value>Use saved players? (y/n)</value>
+  </data>
+  <data name="EnterNewPlayerName" xml:space="preserve">
+    <value>Enter name for {0}:</value>
+  </data>
+  <data name="PlayerName" xml:space="preserve">
+    <value>Player {0}</value>
   </data>
 </root>

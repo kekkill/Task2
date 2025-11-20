@@ -151,7 +151,7 @@
     <value>Введите начальное слово: </value>
   </data>
   <data name="ErrorWordLength" xml:space="preserve">
-    <value>Ошибка, длина слова должна быть от 8 до 33 символов: </value>
+    <value>Ошибка, длина слова должна быть от 8 до 30 символов: </value>
   </data>
   <data name="StartWordSet" xml:space="preserve">
     <value>начальное слово установлено: '{0}'</value>
@@ -236,5 +236,56 @@
   </data>
   <data name="LanguageError" xml:space="preserve">
     <value>Ошибка, вводить можно только русские символы.</value>
+  </data>
+  <data name="GameSavedDueToExit" xml:space="preserve">
+    <value>Результат игры сохранён из-за неожиданного закрытия.</value>
+  </data>
+  <data name="GameResumed" xml:space="preserve">
+    <value>Загружена предыдущая игра. Продолжаем...</value>
+  </data>
+  <data name="GameWasInterruptedResult" xml:space="preserve">
+    <value>Предыдущая игра была прервана. Победитель: Игрок {0}</value>
+  </data>
+  <data name="PlayerLostSimple" xml:space="preserve">
+    <value>Игрок {0} проиграл</value>
+  </data>
+  <data name="LocalisationError1" xml:space="preserve">
+    <value>Ошибка, ввести можно только 1 или 2</value>
+  </data>
+  <data name="LocalisationError2" xml:space="preserve">
+    <value>Error,you can enter only 1 or 2</value>
+  </data>
+  <data name="EnterPlayerName" xml:space="preserve">
+    <value>Введите имя Игрока {0}:</value>
+  </data>
+  <data name="CurrentPlayers" xml:space="preserve">
+    <value>Текущие игроки: {0} vs {1}</value>
+  </data>
+  <data name="CommandShowWords" xml:space="preserve">
+    <value>Все использованные слова:</value>
+  </data>
+  <data name="CommandScore" xml:space="preserve">
+    <value>Текущий счет - {0}: {1}, {2}: {3}</value>
+  </data>
+  <data name="CommandTotalScore" xml:space="preserve">
+    <value>Общие победы - {0}: {1}, {2}: {3}</value>
+  </data>
+  <data name="UnknownCommand" xml:space="preserve">
+    <value>Неизвестная команда</value>
+  </data>
+  <data name="PlayerWins" xml:space="preserve">
+    <value>Победитель: {0}</value>
+  </data>
+  <data name="AvailableCommands" xml:space="preserve">
+    <value>Доступные команды: /show-words, /score, /total-score</value>
+  </data>
+  <data name="UseSavedPlayers" xml:space="preserve">
+    <value>Использовать сохраненных игроков? (y/n)</value>
+  </data>
+  <data name="EnterNewPlayerName" xml:space="preserve">
+    <value>Введите имя для {0}:</value>
+  </data>
+  <data name="PlayerName" xml:space="preserve">
+    <value>Игрок {0}</value>
   </data>
 </root>

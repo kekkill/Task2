@@ -2,7 +2,7 @@ class Program
 {
     static void Main()
     {
-        WordGame game = new WordGame();
+        var game = new WordGame();
         game.Start();
     }
 }
