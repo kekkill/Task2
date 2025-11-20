@@ -1,5 +1,3 @@
-﻿using System.Text;
-using System.Text.Json;
 public class WordGame
 {
     private const int TIME_LIMIT_MS = 15000;
@@ -447,4 +445,5 @@ public class WordGame
             _view.ShowMessage(ex.Message);
         }
     }
+
 }
